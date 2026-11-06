@@ -1,0 +1,20 @@
+{
+  ".gitignore": "18bc3ae74fd446c9d6f311a129e4f95aba146f10432f0ccbd8dc1543753dd36c",
+  "DATA_AND_LIMITATIONS.md": "41e60df76d8ca0ced52ecfba7c513f47df7b2ae429198daa558a6aca25f29865",
+  "index.html": "4076b2f93bd00df81fa38223b55c0e94e317b9b9939ad7ff07d38c7a71290ddc",
+  "preview-template.html": "2c3bad6af389553b35d7a5e440eb10cb54e4bfcf2f75e6afa61d0345cc927b4f",
+  "README.md": "d5d2cad9bb266a1bbcaca05109406fbfeebd56cd64e65d95fd207c609ba018cc",
+  "requirements.txt": "741d7a6a49fc8df482b47dd7ffbb26ba1fe87e712a3d6a37aaa09e5e75e95019",
+  ".github/workflows/checks.yml": "b9a76fdaf54d2acd8fa2abc33c1b67fc5f3c017c033211a695212f60bf3eae3f",
+  "data/research_snapshot.csv": "0321d6efefb284462b02c8a51c3ec6092ec897645196918b19f84e6069ed578d",
+  "figures/Figure_1.png": "80b2a67af75ef94e319c9d2cb5ce755469b4d0b1473a782f84273659b4f0fc79",
+  "figures/Figure_2.png": "24b2538e26dcb87a3b24fd299bcdb1eb30a028c44746b484d5eb72089ec994cb",
+  "figures/Figure_3.png": "f9a41289d9a228636548e571886981c79ed822ecc4165ff0b3a4d4de965ce56d",
+  "figures/powerbi-allocation.png": "12694bb5d763d65e352ff5da651098354694b1a7900394db97d7fa01b6b59b58",
+  "figures/powerbi-performance.png": "bac581192ea06f46609a050cbe575cd8b32a65d20e59d77833170931cfb9e87b",
+  "paper/working-paper.pdf": "d444672a358d3bb4085d9fe3e1537249d0db61beb071411a7c0fb39e661fd768",
+  "src/execution.py": "96a14332783d2d22c4930485a7ee77fac87a25efe9cfea7893a9f0ddf132fa4b",
+  "src/metrics.py": "d7b98d321ffd1ac00458ca559ffd0928a1dafcb7e754e2be0017bd0ee921e965",
+  "src/rule.py": "d302eb657ffde7602085a83cb90a40508a9afc8e7ec6b46d1aa0a3bdb150742e",
+  "tests/test_public_release.py": "1e94a6b83d982b018c7569fd2311ea62a578294585c95d9b26019ab424dc476b"
+}
